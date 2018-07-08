@@ -7,6 +7,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JonnyPickard/find-parent-dir-from-bin.git"
-  }
+    "url": "git@github.com:JonnyPickard/find-parent-dir-from-bin.git"
+  },
+  "homepage": "https://github.com/JonnyPickard/find-parent-dir-from-bin#readme"
 }
