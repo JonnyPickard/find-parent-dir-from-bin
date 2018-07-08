@@ -1,0 +1,8 @@
+{
+  "name": "find-parent-dir-from-bin",
+  "version": "1.0.0-alpha-4",
+  "description": "Finds the absolute path of the parent application. For use in node modules.",
+  "main": "index.js",
+  "author": "Jonny Pickard",
+  "license": "ISC"
+}
