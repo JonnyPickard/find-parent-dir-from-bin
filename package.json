@@ -1,8 +1,12 @@
 {
   "name": "find-parent-dir-from-bin",
-  "version": "1.0.0-alpha-4",
+  "version": "1.0.0-alpha-5",
   "description": "Finds the absolute path of the parent application. For use in node modules.",
   "main": "index.js",
   "author": "Jonny Pickard",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonnyPickard/find-parent-dir-from-bin.git"
+  }
 }

@@ -4,6 +4,12 @@ Finds the absolute directory path of the app that is using your node module by s
 
 Currently synchronous only.
 
+## Installation
+
+```sh
+npm install find-parent-dir-from-bin --save
+```
+
 ## Usage
 
 ```js
